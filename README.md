@@ -1,4 +1,4 @@
-# University of Arizona Online Coding Boot Camp Challenges
+# RUBY Online Coding Boot Camp Challenges
 
 In these challenges, students worked with complex data structures to solidify object-oriented programming skills -- 
 laying the foundation for a software engineering career. The challenges also gave students rigorous preparation 
