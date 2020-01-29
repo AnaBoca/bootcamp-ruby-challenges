@@ -78,3 +78,9 @@ Given an image, we want to build a method to blur the image. However, instead of
 * Reverse the LinkedList using mutation
 * Build a method to determine if a LinkedList is infinite
 
+
+## [🧮 Luhn Algorithm](https://github.com/AnaBoca/bootcamp-ruby-challenges/tree/master/luhn_challenge)
+
+### Luhn Algorithm Requirements
+* Write a method to determine if a credit card number is valid
+* Use the tests to make sure your solution is working
