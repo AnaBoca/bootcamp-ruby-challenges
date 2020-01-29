@@ -38,7 +38,8 @@ Build a class for a Dog, Pony, Mountain, or any real world object you want to re
 ### Image Blur 1 Requirements
 
 Build a class that allows us to build a new image with the data we specify. Make it possible for hte class to output the image to the screen. Your goal is to have the following code work:  
-```ruby image = Image.new([
+```ruby
+image = Image.new([
   [0, 0, 0, 0],
   [0, 1, 0, 0],
   [0, 0, 0, 1],
@@ -48,7 +49,9 @@ Build a class that allows us to build a new image with the data we specify. Make
 image.output_image```  
 And when you run that code it will output the following to the terminal window:  
 
-```ruby 0000
+```ruby
+0000
 0100
 0001
-0000```
+0000
+```
