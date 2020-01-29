@@ -22,6 +22,7 @@ needed for any technical interview.
 * Build a new form for the item.
 * Bonus (optional) When you press the submit button on the new form have it store the value in the database and show the item on the page.
 
+
 ## [🧮 Quiz #3](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/vid_lessons/quizthree.rb)
 ### Quiz 3 Requirements: Object-Oriented Programming
 
