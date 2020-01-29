@@ -33,7 +33,7 @@ Build a class for a Dog, Pony, Mountain, or any real world object you want to re
 * You should use attr_accessor.
 
 
-## [🧮 Image Blur #1]()
+## [🧮 Image Blur #1](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/imageblur1_challenge.rb)
 
 ### Image Blur 1 Requirements
 
