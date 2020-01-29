@@ -21,3 +21,13 @@ needed for any technical interview.
 * Bonus (optional) When you press the submit button on the new form have it store the value in the database and show the item on the page.
 
 [Heroku Hosted Application](https://quizone-ana-boca.herokuapp.com/)
+
+
+## [🧮 Quiz #3](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/vid_lessons/quizthree.rb)
+
+### Quiz 3 Requirements: Object-Oriented Programming
+
+Build a class for a Dog, Pony, Mountain, or any real world object you want to represent in code.  
+* The class should take arguments when you build a new instance of it.
+* The class should store the values that it is initialized with, in its instance variables.
+* You should use attr_accessor.
