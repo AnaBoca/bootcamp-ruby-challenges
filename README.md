@@ -70,3 +70,11 @@ Given an image, we want to build a method to blur the image. However, instead of
 ### Linked List 1 Requirements  
 * Implement a Stack
 * Reverse the LinkedList using iterative code
+
+
+## [🧮 Linked List #2](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/linkedlist2_challenge.rb)
+
+### Linked List 2 Requirements  
+* Reverse the LinkedList using mutation
+* Build a method to determine if a LinkedList is infinite
+
