@@ -99,3 +99,11 @@ Given an image, we want to build a method to blur the image. However, instead of
 ### Collatz Sequence Requirements  
 * Write a method to determine a number's Collatz sequence  
 * Find the number (1 to 1,000,000) with the longest Collatz sequence
+
+
+## [🧮 Tree Traversal](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/tree_traversal_challenge.rb)
+
+### Tree Traversal Requirements
+* Build the tree
+* Build a method to complete a depth first search
+* Build a method or methods to complete a breadth first search
