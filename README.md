@@ -6,7 +6,6 @@ needed for any technical interview.
 
 
 ## [🧮 Quizzes #1 and #2](https://github.com/AnaBoca/bootcamp-ruby-challenges/tree/master/quiz)
-
 ### Quiz 1 Requirements: Web Development Pipeline
 * This should be a rails application, not a plain HTML page.  
 * The web application has a page with static content on it.  
@@ -24,7 +23,6 @@ needed for any technical interview.
 
 
 ## [🧮 Quiz #3](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/vid_lessons/quizthree.rb)
-
 ### Quiz 3 Requirements: Object-Oriented Programming
 
 Build a class for a Dog, Pony, Mountain, or any real world object you want to represent in code.  
