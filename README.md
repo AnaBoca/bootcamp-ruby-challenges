@@ -107,3 +107,9 @@ Given an image, we want to build a method to blur the image. However, instead of
 * Build the tree
 * Build a method to complete a depth first search
 * Build a method or methods to complete a breadth first search
+
+
+## [🧮 Binary Tree Sort](https://github.com/AnaBoca/bootcamp-ruby-challenges/tree/master/binary_tree_sort_challenge)
+
+### Binary Tree Sort Requirements
+* Implement a binary tree (also known as `btree`) sorting algorithm to sort an array of integers such that the test passes
