@@ -24,9 +24,34 @@ needed for any technical interview.
 
 
 ## [🧮 Quiz #3](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/vid_lessons/quizthree.rb)
+
 ### Quiz 3 Requirements: Object-Oriented Programming
 
 Build a class for a Dog, Pony, Mountain, or any real world object you want to represent in code.  
 * The class should take arguments when you build a new instance of it.
 * The class should store the values that it is initialized with, in its instance variables.
 * You should use attr_accessor.
+
+
+## [🧮 Image Blur #1]()
+
+### Image Blur 1 Requirements
+
+Build a class that allows us to build a new image with the data we specify. Make it possible for hte class to output the image to the screen. Your goal is to have the following code work:  
+```ruby
+image = Image.new([
+  [0, 0, 0, 0],
+  [0, 1, 0, 0],
+  [0, 0, 0, 1],
+  [0, 0, 0, 0]
+])
+image.output_image
+```  
+And when you run that code it will output the following to the terminal window:  
+
+```ruby
+0000
+0100
+0001
+0000
+```
