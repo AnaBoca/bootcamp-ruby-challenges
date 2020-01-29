@@ -92,3 +92,10 @@ Given an image, we want to build a method to blur the image. However, instead of
 * Build a recursive method to find the nth digit
 * Build an iterative method to find the nth digit
 * Use the Benchmark module to test your solutions' performance
+
+
+## [🧮 Collatz Sequence](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/collatz_challenge.rb)
+
+### Collatz Sequence Requirements  
+* Write a method to determine a number's Collatz sequence  
+* Find the number (1 to 1,000,000) with the longest Collatz sequence
