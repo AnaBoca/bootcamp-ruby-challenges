@@ -84,3 +84,11 @@ Given an image, we want to build a method to blur the image. However, instead of
 ### Luhn Algorithm Requirements
 * Write a method to determine if a credit card number is valid
 * Use the tests to make sure your solution is working
+
+
+## [🧮 Fibonacci Sequence](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/fibonacci_challenge.rb)
+
+### Fibonacci Sequence Requirements
+* Build a recursive method to find the nth digit
+* Build an iterative method to find the nth digit
+* Use the Benchmark module to test your solutions' performance
