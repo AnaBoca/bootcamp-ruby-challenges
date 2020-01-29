@@ -5,7 +5,10 @@ laying the foundation for a software engineering career. The challenges also gav
 needed for any technical interview.
 
 
+
 ## [🧮 Quizzes #1 and #2](https://github.com/AnaBoca/bootcamp-ruby-challenges/tree/master/quiz)
+[*Heroku Hosted Application](https://quizone-ana-boca.herokuapp.com/)
+
 ### Quiz 1 Requirements: Web Development Pipeline
 * This should be a rails application, not a plain HTML page.  
 * The web application has a page with static content on it.  
@@ -18,9 +21,6 @@ needed for any technical interview.
 * Add the SimpleForm gem to your application.
 * Build a new form for the item.
 * Bonus (optional) When you press the submit button on the new form have it store the value in the database and show the item on the page.
-
-[Heroku Hosted Application](https://quizone-ana-boca.herokuapp.com/)
-
 
 ## [🧮 Quiz #3](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/vid_lessons/quizthree.rb)
 ### Quiz 3 Requirements: Object-Oriented Programming
