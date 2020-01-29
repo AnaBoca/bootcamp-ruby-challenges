@@ -26,7 +26,6 @@ needed for any technical interview.
 ## [🧮 Quiz #3](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/vid_lessons/quizthree.rb)
 
 ### Quiz 3 Requirements: Object-Oriented Programming
-
 Build a class for a Dog, Pony, Mountain, or any real world object you want to represent in code.  
 * The class should take arguments when you build a new instance of it.
 * The class should store the values that it is initialized with, in its instance variables.
@@ -36,7 +35,6 @@ Build a class for a Dog, Pony, Mountain, or any real world object you want to re
 ## [🧮 Image Blur #1](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/imageblur1_challenge.rb)
 
 ### Image Blur 1 Requirements
-
 Build a class that allows us to build a new image with the data we specify. Make it possible for hte class to output the image to the screen. Your goal is to have the following code work:  
 ```ruby
 image = Image.new([
@@ -56,3 +54,12 @@ And when you run that code it will output the following to the terminal window:
 0001
 0000
 ```
+
+
+## [🧮 Image Blur #2 and #3](https://github.com/AnaBoca/bootcamp-ruby-challenges/blob/master/imageblur2_challenge/lib/image.rb)
+
+### Image Blur 2 Requirements  
+Given a black and white image, represented as the class you already implemented, implement a blur method to run a tranformation on the image. Running the blur transformation causes any 1 in the image to cause teh pixel to the left, right, and above and below to become a 1.
+
+### Image Blur 3 Requirements  
+Given an image, we want to build a method to blur the image. However, instead of only blurring images that are within 1 pixel, we want to specify how far to blur the pixels that are within a Manhattan Distance of what is specified. In the previous challenge we built a method that will produce the blurring with a Manhattan distance of 1. Build the method `def blur (distance)` that will implement a blurring of the Manhattan distance specified.
